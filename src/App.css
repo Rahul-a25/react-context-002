@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.bottom {
+  width: 500px;
+  height: 60px;
+  background-color: #434242;
+  margin: auto;
+  margin: 10px auto;
+  
+}
+.head{
+  margin: 10px;
+  background-color: #a09e9e;
+  width: 400px;
+  margin:20px auto;
+
+}
